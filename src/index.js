@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './styles/index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'react-lazy-load-image-component/src/effects/opacity.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
